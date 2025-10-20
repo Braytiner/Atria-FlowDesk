@@ -10,4 +10,8 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.10" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AtriaFlowDesk.Aplicacao.Servicos\AtriaFlowDesk.Aplicacao.Servicos.csproj" />
+  </ItemGroup>
+
 </Project>
